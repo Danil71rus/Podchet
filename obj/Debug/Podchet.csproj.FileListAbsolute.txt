@@ -1,0 +1,18 @@
+C:\Users\Данил\Documents\Visual Studio 2013\Projects\Podchet\Podchet\bin\Debug\Podchet.exe.config
+C:\Users\Данил\Documents\Visual Studio 2013\Projects\Podchet\Podchet\bin\Debug\Podchet.exe
+C:\Users\Данил\Documents\Visual Studio 2013\Projects\Podchet\Podchet\bin\Debug\Podchet.pdb
+C:\Users\Данил\Documents\Visual Studio 2013\Projects\Podchet\Podchet\obj\Debug\Podchet.csprojResolveAssemblyReference.cache
+C:\Users\Данил\Documents\Visual Studio 2013\Projects\Podchet\Podchet\obj\Debug\Podchet.Properties.Resources.resources
+C:\Users\Данил\Documents\Visual Studio 2013\Projects\Podchet\Podchet\obj\Debug\Podchet.csproj.GenerateResource.Cache
+C:\Users\Данил\Documents\Visual Studio 2013\Projects\Podchet\Podchet\obj\Debug\Podchet.exe
+C:\Users\Данил\Documents\Visual Studio 2013\Projects\Podchet\Podchet\obj\Debug\Podchet.pdb
+C:\Users\Данил\Documents\Visual Studio 2013\Projects\Podchet\Podchet\obj\Debug\Podchet.Form1.resources
+C:\Users\DonSt\Dropbox\Полезные проекты\Podchet\Podchet\bin\Debug\Podchet.exe.config
+C:\Users\DonSt\Dropbox\Полезные проекты\Podchet\Podchet\obj\Debug\Podchet.exe
+C:\Users\DonSt\Dropbox\Полезные проекты\Podchet\Podchet\obj\Debug\Podchet.pdb
+C:\Users\DonSt\Dropbox\Полезные проекты\Podchet\Podchet\bin\Debug\Podchet.exe
+C:\Users\DonSt\Dropbox\Полезные проекты\Podchet\Podchet\obj\Debug\Podchet.csprojResolveAssemblyReference.cache
+C:\Users\DonSt\Dropbox\Полезные проекты\Podchet\Podchet\obj\Debug\Podchet.Form1.resources
+C:\Users\DonSt\Dropbox\Полезные проекты\Podchet\Podchet\obj\Debug\Podchet.Properties.Resources.resources
+C:\Users\DonSt\Dropbox\Полезные проекты\Podchet\Podchet\obj\Debug\Podchet.csproj.GenerateResource.Cache
+C:\Users\DonSt\Dropbox\Полезные проекты\Podchet\Podchet\bin\Debug\Podchet.pdb
